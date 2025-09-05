@@ -1,4 +1,5 @@
 ## SIMPLE_SHELL
+
 ## How to use the simple_shell program
 
 1. Compile the program by running the following command:
