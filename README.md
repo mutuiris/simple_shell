@@ -20,7 +20,7 @@ gcc -o simple_shell simple_shell.c
 
 5. To exit the program, type `exit` and press Enter.
 
-## Example commands
+## Example commands to use
 
 Here are some examples of commands that you can use with the simple_shell program:
 
